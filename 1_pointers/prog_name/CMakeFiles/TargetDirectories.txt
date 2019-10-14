@@ -1,0 +1,3 @@
+/home/oleh/git/less_pointer_and_structure/CMakeFiles/rebuild_cache.dir
+/home/oleh/git/less_pointer_and_structure/CMakeFiles/cmd_args.dir
+/home/oleh/git/less_pointer_and_structure/CMakeFiles/edit_cache.dir

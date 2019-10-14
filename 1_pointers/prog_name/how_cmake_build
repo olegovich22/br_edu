@@ -1,0 +1,12 @@
+1)create CMakeLists.txt
+cmake_minimum_required(VERSION 2.8)
+project(name)
+add_executable(prog_name main.c fun.c)
+
+(terminal)
+2)cmake .
+( генерація файлі та Makefile)
+3)make
+компіляція коду
+
+на виході отримаємо бінарник
