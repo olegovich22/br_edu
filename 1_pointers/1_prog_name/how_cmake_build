@@ -10,3 +10,12 @@ add_executable(prog_name main.c fun.c)
 компіляція коду
 
 на виході отримаємо бінарник
+
+
+клонування з гітхаб
+git clone https://github.com/olegovich22/br_edu
+
+пуш на гітхаб
+1)git add .
+2)git commit -m "prog_name program"
+3)git push -f

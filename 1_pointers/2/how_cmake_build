@@ -1,0 +1,21 @@
+1)create CMakeLists.txt
+cmake_minimum_required(VERSION 2.8)
+project(name)
+add_executable(prog_name main.c fun.c)
+
+(terminal)
+2)cmake .
+( генерація файлі та Makefile)
+3)make
+компіляція коду
+
+на виході отримаємо бінарник
+
+
+клонування з гітхаб
+git clone https://github.com/olegovich22/br_edu
+
+пуш на гітхаб
+1)git add .
+2)git commit -m "prog_name program"
+3)git push -f
